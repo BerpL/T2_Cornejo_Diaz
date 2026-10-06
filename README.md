@@ -11,3 +11,7 @@ Repositorio de la evaluacion T2, proyecto Maven creado en Eclipse para practicar
 ## Evidencia T2
 
 Evaluacion T2 de Lenguaje de Programacion II, tema 3 Git y GitHub, seccion T4MO.
+
+## Control de cambios
+
+En esta parte practique el working directory y el staging area con git status, git diff, git add, git reset y git restore.

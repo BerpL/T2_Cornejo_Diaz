@@ -1,0 +1,1 @@
+Observaciones de la T2: el area de staging permite elegir que cambios entran al commit y cuales se quedan en el working directory.
